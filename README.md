@@ -10,7 +10,7 @@ This is a Kanban-style to-do list application built using React, Drag and Drop, 
 
 ## Demo
 
-A live demo of the application can be found [https://6683f4d8d47200554a068385--poetic-jalebi-434035.netlify.app/](#).
+A live demo of the application can be found [here](https://6683f4d8d47200554a068385--poetic-jalebi-434035.netlify.app/).
 
 ## Installation
 
